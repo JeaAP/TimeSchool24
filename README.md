@@ -4,8 +4,27 @@
 
 ## Fitur Utama
 
-- **Pengaturan Jadwal Pelajaran**: Guru dapat dengan mudah mengatur jadwal pelajaran mereka setiap harinya.
-- **Agenda Guru**: Fitur untuk mencatat kegiatan atau jurnal yang dapat membantu guru dalam merefleksikan dan merencanakan pengajaran mereka.
+- **Autentikasi Multi-Level**
+
+  - Sistem login dengan tiga peran: **Admin**, **Guru**, dan **Siswa**.
+  - Masing-masing peran memiliki hak akses dan tampilan menu yang berbeda.
+
+- **Manajemen Jadwal Pelajaran**
+
+  - Admin dapat menambahkan, mengedit, dan menghapus jadwal pelajaran.
+  - Guru dan siswa dapat melihat jadwal yang sesuai dengan mereka.
+
+- **Agenda/Jurnal Guru**
+
+  - Guru dapat menambah, mengedit, dan menghapus jurnal kegiatan harian.
+  - Admin dan siswa dapat melihat agenda guru sebagai bentuk dokumentasi atau referensi.
+
+- **Manajemen Data Guru**
+
+  - Admin dapat melihat dan mengelola data guru.
+
+- **Logout**
+  - Fitur logout tersedia untuk semua jenis pengguna.
 
 ## Teknologi Yang di Gunakan
 
@@ -16,14 +35,16 @@
 ## Instalasi
 
 1. **Clone repository ini:**
-    ```bash
-    git clone https://github.com/JeaAP/TimeSchool24.git
-    ```
+
+   ```bash
+   git clone https://github.com/JeaAP/TimeSchool24.git
+   ```
 
 2. **Masuk ke direktori proyek:**
-    ```bash
-    cd TimeSchool24
-    ```
 
-2. **Setup Database:**
+   ```bash
+   cd TimeSchool24
+   ```
+
+3. **Setup Database:**
    - Import file SQL dari folder database/:
