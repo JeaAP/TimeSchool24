@@ -11,13 +11,14 @@
 
 - **Manajemen Jadwal Pelajaran**
 
-  - Admin dapat menambahkan, mengedit, dan menghapus jadwal pelajaran.
-  - Guru dan siswa dapat melihat jadwal yang sesuai dengan mereka.
+  - **Admin** dapat menambahkan, mengedit, dan menghapus jadwal pelajaran.
+  - **Guru** dan **Siswa** dapat melihat jadwal yang sesuai dengan mereka.
 
 - **Agenda/Jurnal Guru**
 
-  - Guru dapat menambah, mengedit, dan menghapus jurnal kegiatan harian.
-  - Admin dan siswa dapat melihat agenda guru sebagai bentuk dokumentasi atau referensi.
+  - **Siswa** dapat menambah, mengedit, dan menghapus jurnal kegiatan harian.
+  - **Admin** dan **Guru** dapat melihat agenda guru sebagai bentuk dokumentasi atau referensi.
+  - Catatan : Siswa yang akan lebih aktif dalam mengelola genda/jurnal guru.
 
 - **Manajemen Data Guru**
 
