@@ -7,6 +7,12 @@
 - **Pengaturan Jadwal Pelajaran**: Guru dapat dengan mudah mengatur jadwal pelajaran mereka setiap harinya.
 - **Agenda Guru**: Fitur untuk mencatat kegiatan atau jurnal yang dapat membantu guru dalam merefleksikan dan merencanakan pengajaran mereka.
 
+## Teknologi Yang di Gunakan
+
+- **Frontend**: HTML, CSS, JS
+- **Backend**: PHP
+- **Database**: MYSQL
+
 ## Instalasi
 
 1. **Clone repository ini:**
@@ -18,3 +24,6 @@
     ```bash
     cd TimeSchool24
     ```
+
+2. **Setup Database:**
+   - Import file SQL dari folder database/:
